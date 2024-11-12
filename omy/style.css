@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Oswald:wght@200..700&display=swap');
+ body{
+    background-color:darkslategray ;
+    font-family:  "Oswald", sans-serif;
+}
+
+nav{
+    border-top:solid black 1px;
+    border-bottom: solid black 1px;
+    line-height: 150px;
+     
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+
+.border {
+    text-decoration: none;    
+    text-transform: uppercase;
+    font-size: xx-large;   
+
+}
+ul{
+    margin: -50px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+li{
+    display: flex;
+    justify-content: center;
+    display: inline;
+    justify-content: space-between;
+
+} 
+.omy{
+    display: flex;
+    justify-content: center;
+
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    border: solid 1px;
+    margin: 10px;
+    width: 340px;
+    height: 50px;
+ background-color:lightblue
+
+}
